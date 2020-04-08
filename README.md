@@ -7,7 +7,7 @@
 
 A Custom Mario Like Game Developed using My Bitmoji :)
 
-![mymario](https://raw.github.com/thedevilx/mymariogame/mymariogame/media/mymario.png)
+![mymario](https://github.com/thedevilx/mymariogame/mymariogame/media/mymario.png)
 
 ### Prerequisites
 
@@ -22,4 +22,4 @@ You need `freeglut` and `SDL` libraries. Execute the `install.sh` to install the
     $ make
     $ ./mario
     
-### Credits To ![SagarRakshe](https://github.com/sagarrakshe)
+### Credits To https://github.com/sagarrakshe

@@ -1,8 +1,9 @@
 #! /bin/bash
 #
 # install.sh
-# Copyright (C) 2013 sagar <sagar@sagar-liquid>
-#
+# All Rights Reserved <thedevilx.github.io>
+# IG: @adiiikris
+#Qurantine Days Made Me Do This
 
 
 echo "Installing freeglut..."

@@ -17,7 +17,7 @@ You need `freeglut` and `SDL` libraries. Execute the `install.sh` to install the
 
 ### Usage
 
-    $ git clone https://github.com/thedevilx/mymariogame
+    $ git clone https://github.com/thedevilx/My-Mario-Game
     $ cd mymariogame/mymariogame/mymariogame/src
     $ make
     $ ./mario

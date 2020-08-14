@@ -7,7 +7,7 @@
 
 A Custom Mario Like Game Developed using My Bitmoji :)
 
-![mymario](https://raw.githubusercontent.com/adithyaakrishna/mymariogame/master/mymariogame/mymariogame/media/mymario.png)
+![mymario](https://raw.githubusercontent.com/thedevilx/mymariogame/master/mymariogame/mymariogame/media/mymario.png)
 
 ### Prerequisites
 
